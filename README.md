@@ -1,6 +1,8 @@
-# React Modal Bootstrap
+# React Modal Bootstrap (React 16)
 
 Modal component for React with bootstrap style.
+
+Fork of @zbuttram branch [react-16-radium-fix](https://github.com/zbuttram/react-modal-bootstrap/tree/react-16-radium-fix) published to NPM.
 
 [<img src="./screen-shot.png" style="width: 100%;" />](http://minhtranite.github.io/react-modal-bootstrap)
 
@@ -9,12 +11,12 @@ Modal component for React with bootstrap style.
 ### NPM
 
 ```bash
-npm install --save react-modal-bootstrap
+npm install --save react16-modal-bootstrap
 ```
 
 ### Bower
 ```bash
-bower install --save react-modal-bootstrap
+bower install --save react16-modal-bootstrap
 ```
 
 ## Usage
@@ -122,7 +124,7 @@ You can set custom styles vie `backDropStyles`, `dialogStyles` prop.
 
 ```html
 <link rel="stylesheet" type="text/css" href="path/to/bootstrap.css">
-<script src="path/to/react-modal-bootstrap/dist/react-modal-bootstrap.js"></script>
+<script src="path/to/react16-modal-bootstrap/dist/react16-modal-bootstrap.js"></script>
 ```
 
 ```js
