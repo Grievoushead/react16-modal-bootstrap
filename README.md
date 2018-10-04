@@ -2,6 +2,9 @@
 
 Modal component for React with bootstrap style.
 
+![npm version](https://badge.fury.io/js/react16-modal-bootstrap.svg)
+
+
 Fork of @zbuttram branch [react-16-radium-fix](https://github.com/zbuttram/react-modal-bootstrap/tree/react-16-radium-fix) published to NPM.
 
 [<img src="./screen-shot.png" style="width: 100%;" />](http://minhtranite.github.io/react-modal-bootstrap)
