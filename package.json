@@ -1,7 +1,7 @@
 {
-  "name": "react-modal-bootstrap",
-  "version": "1.1.2",
-  "description": "Modal component for ReactJS with Bootstrap style.",
+  "name": "react16-modal-bootstrap",
+  "version": "2.0.0",
+  "description": "Modal component for ReactJS with Bootstrap style. React16 support.",
   "main": "lib/index.js",
   "scripts": {
     "start": "NODE_ENV=development gulp start",
@@ -15,7 +15,8 @@
     "react-modal-bootstrap",
     "modal",
     "bootstrap",
-    "react-modal"
+    "react-modal",
+    "react16"
   ],
   "peerDependencies": {
     "react": "^0.14 || ^15.0.0 || ^16.0.0",
@@ -75,12 +76,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vn38minhtran/react-modal-bootstrap.git"
+    "url": "https://github.com/Grievoushead/react16-modal-bootstrap.git"
   },
-  "author": "Minh Tran",
+  "author": "Sergey Kozachenko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vn38minhtran/react-modal-bootstrap/issues"
+    "url": "https://github.com/Grievoushead/react16-modal-bootstrap/issues"
   },
-  "homepage": "https://github.com/vn38minhtran/react-modal-bootstrap"
+  "homepage": "https://github.com/Grievoushead/react16-modal-bootstrap"
 }
